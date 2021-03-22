@@ -1,5 +1,5 @@
 {
     "require": {
-        "rajretail/rajretail": "1.0.*"
+        "reactjs/reactjs": "1.0.*"
     }
 }
